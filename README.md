@@ -31,4 +31,4 @@ git push
 
 3. 开启 GitHub Pages 功能, 或者，把生成的目标文件```public/*```放在你的web服务器上。
 
-4，访问地 https://ringforyou.github.io/RingForYou/publi
+4，访问地 https://ringforyou.github.io/RingForYou/public
